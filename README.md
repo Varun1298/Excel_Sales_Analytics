@@ -1,7 +1,8 @@
 ## Sales Report :
 
 
-- **Project objective:** 
+- **Project objective:**
+- This project is about analysis of Atliq Hrdware fianancial ,sales, marketing analysis. AtliQ Hardware is a prominent company that supplies computer hardware and peripherals to clients worldwide. My responsibility involved creating sales reports to analyze its market performance for the years 2019, 2020, and 2021. 
 
     **1.** Create a _[Customer Performance Report](https://github.com/Varun1298/Excel_Sales_Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
